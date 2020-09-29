@@ -1,4 +1,5 @@
 # Battleship
+## EECS 448 - Project 2
 
 This battleship game created as our submission for project 2 for EECS 448 at the University of Kansas with improvements from the project 1 of another team.
 
@@ -30,4 +31,16 @@ cd documentation
 ./generate.sh
 ```
 
+## Original Contributors
+- Lucas Brakenridge
+- Javier Barea Lara
+- Garrett Mills
+- Evan Powell
+- Alec Horlick-Mills
+## New Contributors
+- Zach Delong
+- Ethan Grantz
+- Yan Liu
+- Alex Reeves
+- QiTao Weng
 
